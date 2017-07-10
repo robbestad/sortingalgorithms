@@ -63,7 +63,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ConsoleApp1\SortAlgorithms.csproj">
+    <ProjectReference Include="..\Lib\SortAlgorithms.csproj">
       <Project>{2EE540F1-BE24-4498-9217-551C58BEF49F}</Project>
       <Name>SortAlgorithms</Name>
     </ProjectReference>
